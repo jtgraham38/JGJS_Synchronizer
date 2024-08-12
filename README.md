@@ -12,8 +12,8 @@ import init_all from 'jg_synchronizer';
 document.addEventListener('DOMContentLoaded', (event)=>{
     //create initializers object
     const inits = {
-        honeypot_handle: honeypot_init,
-        stripe_charge_input_handle: stripe_init,
+        honeypot_form_handle: honeypot_init,
+        stripe_form_handle: stripe_init,
         ajax_form_handle: ajax_init,
         modal_handle: modal_init,
         loader_handle: loader_init

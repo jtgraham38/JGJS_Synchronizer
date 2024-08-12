@@ -1,0 +1,25 @@
+{
+  "name": "jg_synchronizer",
+  "version": "1.0.0",
+  "description": "A script that ensures event listeners are properly registered for the case when multiple JG form libraries are used together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtgraham38/JGJS_Synchronizer.git"
+  },
+  "keywords": [
+    "jg_modal",
+    "jg_stripe_form",
+    "jg_ajax_form",
+    "jg_honeypot_form"
+  ],
+  "author": "Jacob Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtgraham38/JGJS_Synchronizer/issues"
+  },
+  "homepage": "https://github.com/jtgraham38/JGJS_Synchronizer#readme"
+}
